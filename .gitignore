@@ -1,0 +1,7 @@
+
+.~lock.911.csv#
+test_file.py
+.spyproject/config/backups/codestyle.ini.bak
+.spyproject/config/backups/encoding.ini.bak
+*.bak
+*.ini
